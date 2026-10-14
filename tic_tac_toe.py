@@ -89,6 +89,3 @@ while True:
         current_player = 'x'
 
 print("Thanks for playing!")
-
-# Program for Tic Tac Toe
-
