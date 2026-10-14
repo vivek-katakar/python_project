@@ -89,3 +89,4 @@ while True:
         current_player = 'x'
 
 print("Thanks for playing!")
+print("----------------well played--------------")
